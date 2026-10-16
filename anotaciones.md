@@ -1,0 +1,18 @@
+
+# Apuntes de Git
+
+## 1. Que es Git?
+**Git es un control de versiones que se puede instanciar en tu computadora, de esta forma puedes saber que se modifico, que hay actualmente en tu codigo , esta es una forma tangible de llevar una congruencia y organizacion de los cambios**
+
+## 2. Que es "git init"?
+**Lo que hace es inicializar un repositorio de Git en el directorio actual. A partir de ahi, puedes preparar los cambios y registrarlos en el historial**
+
+## 2. Que es "git status"?
+**este comando nos ayuda a verificar que cambios hubieron**
+
+## 2. Que es "git add"?
+**este comando nos ayuda a agregar los archivos a la parte del staging de lo que se va a subir**
+
+## 2. Que es "git commit -m"?
+**este comando nos ayuda a empaquetar lo que tenemos en el staging area en ese momento y guardarlo bajo una versión identificada del proyecto**
+
